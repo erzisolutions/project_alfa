@@ -1,0 +1,762 @@
+[
+  {
+    "id": 19,
+    "category": "PIZZA",
+    "name": "Pizza Capricciosa",
+    "price": 10,
+    "description": "(paradajz sos, sir, šunka, gljive, origano)",
+    "pricing": "from"
+  },
+  {
+    "id": 20,
+    "category": "PIZZA",
+    "name": "Pizza Margherita",
+    "price": 9,
+    "description": "(paradajz sos, sir, origano)",
+    "pricing": "from"
+  },
+  {
+    "id": 21,
+    "category": "PIZZA",
+    "name": "Pizza Funghi",
+    "price": 10,
+    "description": "(paradajz sos, sir, gljive, origano)",
+    "pricing": "from"
+  },
+  {
+    "id": 22,
+    "category": "PIZZA",
+    "name": "Pizza Mexicana",
+    "price": 10,
+    "description": "(paradajz sos, sir, kulen, kukuruz, čili, origano)",
+    "pricing": "from"
+  },
+  {
+    "id": 23,
+    "category": "PIZZA",
+    "name": "Pizza 4 Vrste Sira",
+    "price": 11,
+    "description": "(paradajz sos, mozzarela, edamer, gorgonzola, parmezan, origano)",
+    "pricing": "from"
+  },
+  {
+    "id": 24,
+    "category": "PIZZA",
+    "name": "Pizza Vegetariana",
+    "price": 10,
+    "description": "(paradajz sos, sir, gljive, paprika, paradajz, luk, kukuruz, origano)",
+    "pricing": "from"
+  },
+  {
+    "id": 25,
+    "category": "PIZZA",
+    "name": "Pizza Mozzarella",
+    "price": 10,
+    "description": "(paradajz sos, sir, paradajz, origano)",
+    "pricing": "from"
+  },
+  {
+    "id": 26,
+    "category": "PIZZA",
+    "name": "Pizza Tuna",
+    "price": 10,
+    "description": "(paradajz sos, sir, tuna, luk, origano)",
+    "pricing": "from"
+  },
+  {
+    "id": 27,
+    "category": "PIZZA",
+    "name": "Pizza Sa Hrenovkama",
+    "price": 10,
+    "description": "(paradajz sos, sir, pileće hrenovke, origano)",
+    "pricing": "from"
+  },
+  {
+    "id": 28,
+    "category": "PIZZA",
+    "name": "Pizza Romana",
+    "price": 12,
+    "description": "(paradajz sos, sir, suho meso, origano)",
+    "pricing": "from"
+  },
+  {
+    "id": 29,
+    "category": "PIZZA",
+    "name": "Pizza Kulen",
+    "price": 11,
+    "description": "(paradajz sos, sir, kulen, origano)",
+    "pricing": "from"
+  },
+  {
+    "id": 30,
+    "category": "PIZZA",
+    "name": "Pizza Bosna",
+    "price": 12,
+    "description": "(paradajz sos, sir, suho meso, kulen, jaje, origano)",
+    "pricing": "from"
+  },
+  {
+    "id": 31,
+    "category": "PIZZA",
+    "name": "Pizza Chicken",
+    "price": 11,
+    "description": "(paradajz sos, sir, marinirana piletina, origano)",
+    "pricing": "from"
+  },
+  {
+    "id": 32,
+    "category": "PIZZA",
+    "name": "Pizza Quatrro Stagioni",
+    "price": 12,
+    "description": "(paradajz sos, sir, kulen, suho meso, šunka, gljive, origano)",
+    "pricing": "from"
+  },
+  {
+    "id": 33,
+    "category": "PIZZA",
+    "name": "Pizza La Linea",
+    "price": 12,
+    "description": "(paradajz sos, sir, kulen, suho meso, šunka, gljive, origano)",
+    "pricing": "from"
+  },
+  {
+    "id": 39,
+    "category": "BURGERI",
+    "name": "Burger \"Classic\"",
+    "price": 10,
+    "description": "(pecivo, meso, sos, sir, zelena salata, paradajz, luk)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 40,
+    "category": "BURGERI",
+    "name": "Burger \"Pikant\"",
+    "price": 10,
+    "description": "(pecivo, meso, ljuti sos, sir, chili, zelena salata, paradajz, luk)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 41,
+    "category": "BURGERI",
+    "name": "Burger \"Jaje\"",
+    "price": 11,
+    "description": "(pecivo, meso, sos, sir, jaje na oko, zelena salata, paradajz, luk)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 42,
+    "category": "BURGERI",
+    "name": "Chicken Burger",
+    "price": 10,
+    "description": "(pecivo, pohovano pileće meso, sos, pohovani sir, zelena salata, paradajz, luk)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 43,
+    "category": "BURGERI",
+    "name": "Double Burger",
+    "price": 15,
+    "description": "(duplo pecivo, 2xmeso, sos, sir, zelena salata, paradajz, luk)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 44,
+    "category": "BURGERI",
+    "name": "Mini Burgeri",
+    "price": 15,
+    "description": "(3xpecivo, 3xmeso, sos, sir, zelena salata, paradajz, luk)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 2,
+    "category": "DORUČAK",
+    "name": "Omlet",
+    "price": 5,
+    "description": "(jaja, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 3,
+    "category": "DORUČAK",
+    "name": "Omlet sa sirom",
+    "price": 6,
+    "description": "(jaja, edamer, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 4,
+    "category": "DORUČAK",
+    "name": "Omlet Sa Šunkom",
+    "price": 7,
+    "description": "(jaja, šunka, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 5,
+    "category": "DORUČAK",
+    "name": "Omlet Sa Suhim Mesom",
+    "price": 8,
+    "description": "(jaja,suho meso, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 6,
+    "category": "DORUČAK",
+    "name": "Omlet Sa Hrenovkama",
+    "price": 7,
+    "description": "(jaja, hrenovke, kajmak, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 7,
+    "category": "DORUČAK",
+    "name": "Omlet La Linea",
+    "price": 7.5,
+    "description": "(jaja, šunka, suho meso, sir, hrenovke, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 8,
+    "category": "DORUČAK",
+    "name": "Vegetarijanski Omlet",
+    "price": 7,
+    "description": "(jaja, povrće, salata, kajmak, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 9,
+    "category": "DORUČAK",
+    "name": "Jaja Na Oko Sa Hrenovkama",
+    "price": 7,
+    "description": "(jaja, salata, kajmak, 2 hrenovke, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 10,
+    "category": "DORUČAK",
+    "name": "Jaja Na Oko Sa Kobasicama",
+    "price": 7,
+    "description": "(jaja, salata, kajmak, 2 kobasice, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 11,
+    "category": "DORUČAK",
+    "name": "Palenta",
+    "price": 7,
+    "description": "(sir, kajmak)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 12,
+    "category": "DORUČAK",
+    "name": "Uštipci",
+    "price": 7,
+    "description": "(kajmak, sir)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 13,
+    "category": "DORUČAK",
+    "name": "Uštipci \"Jaja\"",
+    "price": 8,
+    "description": "(kajmak, sir, jaja)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 14,
+    "category": "DORUČAK",
+    "name": "Uštipci \"Kulen\"",
+    "price": 9,
+    "description": "(kajmak, sir, jaja, kulen)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 15,
+    "category": "DORUČAK",
+    "name": "Uštipci \"Suho Meso\"",
+    "price": 10,
+    "description": "(kajmak, sir, jaja, suho meso)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 16,
+    "category": "DORUČAK",
+    "name": "Lepinica sa sirom i kajmakom",
+    "price": 7,
+    "description": "lepinica,sir,kajmak",
+    "pricing": "fixed"
+  },
+  {
+    "id": 17,
+    "category": "DORUČAK",
+    "name": "Uštipak sa mljevenim mesom",
+    "price": 12,
+    "description": "(placka, mljeveno meso, sos)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 18,
+    "category": "DORUČAK",
+    "name": "Doručak Za Dvoje",
+    "price": 13,
+    "description": "(4 jaja, uštipci, sir, kajmak, kulen, šunka, sos)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 45,
+    "category": "MASLENJAK I TORTILJE",
+    "name": "Pileći Maslenjak",
+    "price": 12,
+    "description": "(maslenjak od pizza tijesta, pileći file, sos od šampinjona)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 46,
+    "category": "MASLENJAK I TORTILJE",
+    "name": "Maslenjak Sa Sirom",
+    "price": 11,
+    "description": "(maslenjak od pizza tijesta, feta sir, kajmak, vrhnje)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 47,
+    "category": "MASLENJAK I TORTILJE",
+    "name": "Tortilja \"Mexico\"",
+    "price": 11,
+    "description": "(mljeveno meso, povrće, ljuti sos)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 48,
+    "category": "MASLENJAK I TORTILJE",
+    "name": "Tortilja \"La Linea\"",
+    "price": 10,
+    "description": "(pileći file, blagi sos, povrće)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 60,
+    "category": "JELA PO NARUDŽBI",
+    "name": "Šampinjoni Na Žaru",
+    "price": 6,
+    "description": "(šampinjoni, paradajz, bijeli luk, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 61,
+    "category": "JELA PO NARUDŽBI",
+    "name": "Pileći File Na Žaru",
+    "price": 9,
+    "description": "(pileći file, pekarski krompir ili pomfrit, pecivo)",
+    "pricing": "from"
+  },
+  {
+    "id": 62,
+    "category": "JELA PO NARUDŽBI",
+    "name": "Pileći Ražnjići",
+    "price": 13,
+    "description": "(piletina, pekarski krompir ili pomfrit, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 63,
+    "category": "JELA PO NARUDŽBI",
+    "name": "Piletina Na Bečki",
+    "price": 14,
+    "description": "(piletina, pekarski krompir ili pomfrit, bijeli sos, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 64,
+    "category": "JELA PO NARUDŽBI",
+    "name": "Pileći File U Šampinjon Sosu",
+    "price": 15,
+    "description": "(piletina, pekarski krompir ili pomfrit, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 65,
+    "category": "JELA PO NARUDŽBI",
+    "name": "Pileći File U Gorgonzola Sosu",
+    "price": 15,
+    "description": "(piletina, pekarski krompir ili pomfrit, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 66,
+    "category": "JELA PO NARUDŽBI",
+    "name": "Pileća Punjena Rolada",
+    "price": 18,
+    "description": "(piletina, sir, šunka, suho meso, pekarski krompir ili pomfrit, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 67,
+    "category": "JELA PO NARUDŽBI",
+    "name": "Piletina Sa Povrćem",
+    "price": 15,
+    "description": "(piletina, paprika, patlidžan, tikvica, pekarski krompir, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 68,
+    "category": "JELA PO NARUDŽBI",
+    "name": "Pileći Medaljoni",
+    "price": 10,
+    "description": "(pileći medaljoni, pomfrit, sos)",
+    "pricing": "from"
+  },
+  {
+    "id": 69,
+    "category": "JELA PO NARUDŽBI",
+    "name": "Gurmanska Pljeskavica",
+    "price": 15,
+    "description": "(mljeveno meso, sir, suho meso, prilog, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 70,
+    "category": "JELA PO NARUDŽBI",
+    "name": "Pljeskavica U Kajmaku",
+    "price": 14,
+    "description": "(mljeveno meso, pekarski krompir ili pomfrit, kajmak, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 71,
+    "category": "JELA PO NARUDŽBI",
+    "name": "Punjena Pljeskavica",
+    "price": 15,
+    "description": "(mljeveno meso, prilog, feta sir, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 72,
+    "category": "JELA PO NARUDŽBI",
+    "name": "Wok Pileći",
+    "price": 14,
+    "description": "(paprika, tikvica, kikiriki puter, riža, mrkva, luk, soja sos, začin)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 73,
+    "category": "JELA PO NARUDŽBI",
+    "name": "Pohovani Sir sa prilogom i sosom",
+    "price": 12,
+    "description": "pohovani sir,pomfrit ili pekarski, sos",
+    "pricing": "fixed"
+  },
+  {
+    "id": 49,
+    "category": "SENDVIČI",
+    "name": "Sendvič \"Pohovani File\"",
+    "price": 8,
+    "description": "(domaća lepinica, pohovani pileći file, namaz, salata)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 50,
+    "category": "SENDVIČI",
+    "name": "Sendvič Pileći",
+    "price": 7.5,
+    "description": "(domaća lepinica, piletina, namaz, salata)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 51,
+    "category": "SENDVIČI",
+    "name": "Sendvič \"Kobasica\"",
+    "price": 7,
+    "description": "(domaća lepinica, kobasica, namaz, salata)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 52,
+    "category": "SENDVIČI",
+    "name": "Sendvič \"Šunka\"",
+    "price": 7,
+    "description": "(domaća lepinica, pureća šunka, namaz, salata)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 53,
+    "category": "SENDVIČI",
+    "name": "Pljeskavica u lepini",
+    "price": 8,
+    "description": "(domaća lepinica, pljeskavica, sir, salata, sos)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 1,
+    "category": "SUPER PONUDA !",
+    "name": "SUPER COMBO",
+    "price": 12,
+    "description": "Hamburger + Mali pomfrit + Pepsi",
+    "pricing": "fixed"
+  },
+  {
+    "id": 34,
+    "category": "TABASKINO",
+    "name": "Tabaskino \"Šunka\"",
+    "price": 10,
+    "description": "(sir, šunka, kajmak)",
+    "pricing": "from"
+  },
+  {
+    "id": 35,
+    "category": "TABASKINO",
+    "name": "Tabaskino \"Suho Meso\"",
+    "price": 10,
+    "description": "(sir, šunka, suho meso, kajmak)",
+    "pricing": "from"
+  },
+  {
+    "id": 36,
+    "category": "TABASKINO",
+    "name": "Tabaskino \"Kulen\"",
+    "price": 10,
+    "description": "(sir, šunka, kulen, kajmak)",
+    "pricing": "from"
+  },
+  {
+    "id": 37,
+    "category": "TABASKINO",
+    "name": "Tabaskino \"Mljeveno Meso\"",
+    "price": 10,
+    "description": "sir, mljeveno meso, kajmak",
+    "pricing": "from"
+  },
+  {
+    "id": 54,
+    "category": "SLANI PALAČINCI",
+    "name": "Pohovani Palačinak \"Sir\"",
+    "price": 10,
+    "description": "(svježi sir, feta sir, suhi sir)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 55,
+    "category": "SLANI PALAČINCI",
+    "name": "Pohovani Palačinak \"Meso\"",
+    "price": 12,
+    "description": "(mljeveno meso)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 56,
+    "category": "SLANI PALAČINCI",
+    "name": "Pohovani Palačinak \"Pileći\"",
+    "price": 10,
+    "description": "(pileći file, šampinjoni)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 57,
+    "category": "KUHANA JELA",
+    "name": "Grah",
+    "price": 7,
+    "description": "",
+    "pricing": "fixed"
+  },
+  {
+    "id": 58,
+    "category": "KUHANA JELA",
+    "name": "Grah sa kobasicom",
+    "price": 8,
+    "description": "",
+    "pricing": "fixed"
+  },
+  {
+    "id": 59,
+    "category": "KUHANA JELA",
+    "name": "Begova Čorba",
+    "price": 7,
+    "description": "",
+    "pricing": "fixed"
+  },
+  {
+    "id": 74,
+    "category": "SALATE",
+    "name": "Pileća Salata",
+    "price": 12,
+    "description": "(piletina, zelena salata, paprika, paradajz, kukuruz, feta, dresing)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 75,
+    "category": "SALATE",
+    "name": "Tuna Salata",
+    "price": 12,
+    "description": "(tunjevina, zelena salata, paprika, masline, kukuruz, feta, pecivo)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 76,
+    "category": "SALATE",
+    "name": "Šopska salata",
+    "price": 6,
+    "description": "(paradajz,paprike,kajmak,sir..)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 77,
+    "category": "SALATE",
+    "name": "Sezonska Salata",
+    "price": 4,
+    "description": "",
+    "pricing": "fixed"
+  },
+  {
+    "id": 78,
+    "category": "SALATE",
+    "name": "Kupus Salata",
+    "price": 4,
+    "description": "",
+    "pricing": "fixed"
+  },
+  {
+    "id": 79,
+    "category": "SALATE",
+    "name": "Zelena Salata",
+    "price": 4,
+    "description": "",
+    "pricing": "fixed"
+  },
+  {
+    "id": 80,
+    "category": "PLATE",
+    "name": "Hladna Plata",
+    "price": 35,
+    "description": "(suho meso, sudžuka, trapist, jaja, svježi sir)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 81,
+    "category": "PLATE",
+    "name": "Plata \"La Linea\"",
+    "price": 45,
+    "description": "(ćevapi, pljeskavice, kobasice, pileći file, ražnjići, sudžukice, pomfrit, salata)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 82,
+    "category": "SLASTICE",
+    "name": "Kit-Kat palačinak",
+    "price": 7.5,
+    "description": "Kit-Kat krem sa keksom, šlag",
+    "pricing": "fixed"
+  },
+  {
+    "id": 83,
+    "category": "SLASTICE",
+    "name": "Palačinak Kinder",
+    "price": 7.5,
+    "description": "LinoLada, krem bella,čoko mrvice,šlag",
+    "pricing": "fixed"
+  },
+  {
+    "id": 84,
+    "category": "SLASTICE",
+    "name": "Palačinak Kinder Bueno",
+    "price": 7.5,
+    "description": "Nutella,drobljeni keks,Bueno krem,šlag",
+    "pricing": "fixed"
+  },
+  {
+    "id": 85,
+    "category": "SLASTICE",
+    "name": "Palačinak \"Oreo\"",
+    "price": 7.5,
+    "description": "(nutella, oreo keks, šlag)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 86,
+    "category": "SLASTICE",
+    "name": "Palačinak Jaffa",
+    "price": 7.5,
+    "description": "nadjev narandža,gran latte,plazma, šlag",
+    "pricing": "fixed"
+  },
+  {
+    "id": 87,
+    "category": "SLASTICE",
+    "name": "Palačinak \"Nutella Banana\"",
+    "price": 7.5,
+    "description": "(nutella, banana, plazma, šlag)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 88,
+    "category": "SLASTICE",
+    "name": "Palačinak \"Nutella\"",
+    "price": 7,
+    "description": "(nutella, plazma, šlag)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 89,
+    "category": "SLASTICE",
+    "name": "Palačinak \"Linolada\"",
+    "price": 6,
+    "description": "(linolada, šlag)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 90,
+    "category": "SLASTICE",
+    "name": "Palačinak \"Marmelada\"",
+    "price": 5,
+    "description": "(marmelada, šlag)",
+    "pricing": "fixed"
+  },
+  {
+    "id": 91,
+    "category": "PRILOZI",
+    "name": "Pomfrit",
+    "price": 4,
+    "description": "",
+    "pricing": "fixed"
+  },
+  {
+    "id": 92,
+    "category": "PRILOZI",
+    "name": "Pekarski krompir",
+    "price": 4,
+    "description": "",
+    "pricing": "fixed"
+  },
+  {
+    "id": 93,
+    "category": "PRILOZI",
+    "name": "Riža sa povrćem",
+    "price": 4,
+    "description": "riža,grašak",
+    "pricing": "fixed"
+  },
+  {
+    "id": 94,
+    "category": "PRILOZI",
+    "name": "Pohovani luk",
+    "price": 5,
+    "description": "",
+    "pricing": "fixed"
+  },
+  {
+    "id": 95,
+    "category": "PRILOZI",
+    "name": "Pohovani sir",
+    "price": 6,
+    "description": "",
+    "pricing": "fixed"
+  },
+  {
+    "id": 96,
+    "category": "PRILOZI",
+    "name": "Extra Sos",
+    "price": 2,
+    "description": "",
+    "pricing": "fixed"
+  }
+]
